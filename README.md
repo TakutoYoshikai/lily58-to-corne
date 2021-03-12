@@ -1,6 +1,6 @@
 # lily58-to-corne
 
-<img src="./keyboard.jpg" width="300">
+<img src="./keyboard.jpg" width="500">
 
 This is a keymap that can change Lily58 to like Corne Cherry.
 
