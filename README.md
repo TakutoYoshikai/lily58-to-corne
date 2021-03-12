@@ -3,6 +3,7 @@ This is a keymap that can change Lily58 to like Corne Cherry.
 
 ### Usage
 **1. setup qmk_firmware**
+refer [qmk_firmware](https://github.com/qmk/qmk_firmware/)
 
 **2. clone this repository to qmk_firmware/keyboards/lily58/keymaps/corne**
 ```bash
